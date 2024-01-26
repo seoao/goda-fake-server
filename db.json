@@ -45,5 +45,16 @@
         "city": "Hanoi",
         "country": "Vietnam",
         "postalCode": "0000"
-    }
+    },
+    "cards": [
+        {
+            "name": "Ngo Tung Son",
+            "position": "General Manager",
+            "mobileNumber": "(+84) 344 576 026",
+            "email": "sontnt@kis-v.com",
+            "companyName": "KIS Creative Viet Nam",
+            "website": "https://kis-v.com/",
+            "location": "5F Technosoft Bld, 8/15 Duy Tan Street, Cau Giay, Hanoi, Vietnam"
+        }
+    ]
 }
