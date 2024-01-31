@@ -68,5 +68,91 @@
         "birthday": "2002-12-02",
         "gender": true,
         "image": "https://storage.googleapis.com/pai-images/cabb7d2f8f224d089ce7dfdca9cbb32c.jpeg"
+    },
+    "places": {
+        "food": [
+            {
+                "name": "Gà Rán Bonkon 03",
+                "images": "https://lh5.googleusercontent.com/p/AF1QipP2cEftwFyjV_Coo0QRznEJPUuVgh3dvJ0pwpb0=w408-h306-k-no",
+                "rate": "4.7",
+                "review": "17",
+                "view": "152",
+                "description": "Cửa hàng rộng rãi, địa điểm dễ tìm. Gà tươi, da giòn, sốt tỏi ăn rất lạ miệng"
+            },
+            {
+                "name": "Phúc Lộc Quán",
+                "images": "https://lh5.googleusercontent.com/p/AF1QipNlZEm1UvEwDJZFuwYwRGABkYhafSXl-vwhdyck=w408-h544-k-no",
+                "rate": "4.7",
+                "review": "17",
+                "view": "152",
+                "description": "Nhà hàng Phúc Lộc - 120 Vũ Phạm Hàm - Yên Hòa - Cầu Giấy - Hà Nội là nơi hội tụ đầy đủ các món ăn ẩm thực đặc sắc từ núi rừng Tây Bắc. Đồng hành cùng lượt deal ngày hôm nay, nhà hàng hân hạnh mang tới cho quý khách hàng của Hotdeal Set Cá Lăng Ngon Chuẩn Vị Dành Cho 4-6 Người với giá cực hấp dẫn chỉ 1,220,000Đ thay cho giá gốc là 2,032,000Đ. Nhanh tay click MUA ngay bạn nhé!"
+            },{
+                "name": "Nhà Hàng Mỹ Hải Sản Nam Định",
+                "images": "https://lh5.googleusercontent.com/p/AF1QipPmWSVVULfTq-Gha13o7gmqZbu3orgRPDhRmlwz=w408-h725-k-no",
+                "rate": "4.7",
+                "review": "17",
+                "view": "152",
+                "description": "Bề bề nõn siêu trứng loại 1 hôm nay đã cập bến rồi cả nhà ạ. Tâm đắc nhất của nhà em chính là bề bề trứng, đảm bảo con nào cũng siêu trứng nha. #210k/500gram Hàng #VIP to, chắc mẩy, thịt thơm phức, thả lẩu, luộc sơ chấm muối hay sốt me cũng tuyệt. "
+            },{
+                "name": "Nhà Hàng Phú Sơn",
+                "images": "https://lh5.googleusercontent.com/p/AF1QipMTHJ_QBEvDjlZJCgNjxjvCSOAnpLPPOp5RH9E3=w408-h544-k-no",
+                "rate": "4.7",
+                "review": "17",
+                "view": "152",
+                "description": "Nhà hàng to đẹp nhưng giá rất bình dân , không chặt chém khách qua đường , chủ nhà hàng là đôi vợ chồng trẻ và chịu khó Phong cách nhiệt tình dân dã , nhưng đôi lúc qua thấy hơi vắng vì nhà hàng khá to , khoảng gần 300m2 một sàn"
+            }
+        ],
+        "drink": [
+            {
+                "name": "MƠ Coffee",
+                "images": "https://lh5.googleusercontent.com/p/AF1QipONVx1kaigLb7paylvfbz0HVtETHve7xxGBM7qK=w408-h612-k-no",
+                "rate": "4.7",
+                "review": "17",
+                "view": "152",
+                "description": "Trong cái lạnh những ngày cuối năm của Hà Nội, cảm xúc lại càng xáo động bởi năm cũ và bồi hồi chờ năm mới đến. Và hơn cả, người ta lại càng mơ về cái Tết được sum vầy, đầm ấm với gia đình như một ước muốn về một khởi đầu mới đủ đầy và tràn ngập tình yêu thương"
+            },
+            {
+                "name": "Twitter Beans Coffee Hòa Lạc",
+                "images": "https://lh5.googleusercontent.com/p/AF1QipNvsD-pawS97h9RoBp1X2lJuT8S9bxEjvYxUCsa=w426-h240-k-no",
+                "rate": "4.7",
+                "review": "17",
+                "view": "152",
+                "description": "Cửa hàng rộng rãi, địa điểm dễ tìm. Gà tươi, da giòn, sốt tỏi ăn rất lạ miệng"
+            },
+            {
+                "name": "Gà Rán Bonkon 03",
+                "images": "https://lh5.googleusercontent.com/p/AF1QipP2cEftwFyjV_Coo0QRznEJPUuVgh3dvJ0pwpb0=w408-h306-k-no",
+                "rate": "4.7",
+                "review": "17",
+                "view": "152",
+                "description": "Quán trang trí theo phong cánh hiện đại, không gian cũng ổn nhưng ko phù hợp với những người cần yên tĩnh. Về đồ uống thì mình vote cho best seller Hisbiscus Cam Đào nha. Món này tuy đắt 1 chút nhưng lại rất healthy vì được làm từ trà atiso đỏ và hoa quả tự nhiên (cam tươi, đào ngâm từ đào tươi) vị cũng rất ngon. Đặc biệt thích ở quán là có đồ ăn ăn kèm nha. Đồ ăn thì mình vote cho Bánh Croissant Trứng Muối (còn gọi là Bánh Sừng Bò Trứng Muối) vì bánh nóng, ngon, nhân trứng muối thơm và không bị đóng cục và khá giống bánh chính gốc nước ngoài. Tuy nhiên, một điểm trừ là đồ ăn thức uống giá hơi đắt và phải tự mang đồ ra bàn nữa. Nhưng nói chung, quán ổn và hợp cho gia đình đi chơi hoặc nghỉ chân đường dài."
+            }
+        ],
+        "relax": [
+            {
+                "name": "Karaoke Hoa Hồng Massage",
+                "images": "https://lh5.googleusercontent.com/p/AF1QipOFfu4I_K2dNLg3vQY74okSOgtXJicWWkwwuIOM=w408-h305-k-no",
+                "rate": "4.7",
+                "review": "17",
+                "view": "152",
+                "description": "GIẢM GIÁ  20 % giờ hát cho toàn bộ khách hàng đặt bàn trước - Đặc biệt các phòng sinh nhật sẽ được trang trí phòng miễn phí và tặng 1 bánh sinh nhật."
+            },
+            {
+                "name": "Galaxy Billiards",
+                "images": "https://lh5.googleusercontent.com/p/AF1QipNso2pGtLMz7AwrEMvhhfyQ6KM_Mo1ydYfomXa9=w408-h306-k-no",
+                "rate": "4.7",
+                "review": "17",
+                "view": "152",
+                "description": "Cửa hàng rộng rãi, địa điểm dễ tìm. Gà tươi, da giòn, sốt tỏi ăn rất lạ miệng"
+            },
+            {
+                "name": "Cyber City Gaming",
+                "images": "https://lh5.googleusercontent.com/p/AF1QipNy4QYZQXAS10mfnMGU9XilSOT-D0HO5tavTuzP=w425-h240-k-no",
+                "rate": "4.7",
+                "review": "17",
+                "view": "152",
+                "description": "Quán sạch sẽ , rộng rãi, không gian phù hợp với các đối tượng khách hàng, đa dạng về đồ ăn đồ uống phục vụ nhiệt tình"
+            }
+        ]
     }
 }
