@@ -8,7 +8,7 @@
                 "password": "123",
                 "address": "Lao Cai- Vietnam",
                 "birthday": "2002-12-02",
-                "gender": true,
+                "gender": true, // https://icme2023.hnue.edu.vn/sites/default/files/gallery/maxresdefault.jpg
                 "image": "https://storage.googleapis.com/pai-images/cabb7d2f8f224d089ce7dfdca9cbb32c.jpeg"
             },
             "place": {
@@ -19,10 +19,8 @@
             "content": "Thứ làm lòng người lay động khi “lạc” vào đêm Hà Nội không phải là vẻ đẹp của bầu trời sao lung linh mà là những ngọn đèn vàng có thể “kể” câu chuyện của Hà Nội về đêm. Đủ trầm lắng, đủ sắc màu, đủ ấm, và đôi khi đủ lạnh lẽo, bao dung, rộng lượng... một thứ không tên nhưng đặc sệt Hà Nội, chỉ Hà Nội mà thôi.",
             "media": [
                 {
-                    "image": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2021/07/vi-sao-noi-ha-noi-dep-nhat-ve-dem-6.jpg"
-                },
-                {
-                    "video": ""
+                    "type": "image",
+                    "link": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2021/07/vi-sao-noi-ha-noi-dep-nhat-ve-dem-6.jpg"
                 }
             ],
             "comments": [
