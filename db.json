@@ -14,8 +14,8 @@
             "place": {
                 "name": "Hà Nội"
             },
-            "createAt": "",
-            "updateAt": "",
+            "createAt": "2024-01-02",
+            "updateAt": "2024-01-02",
             "content": "Thứ làm lòng người lay động khi “lạc” vào đêm Hà Nội không phải là vẻ đẹp của bầu trời sao lung linh mà là những ngọn đèn vàng có thể “kể” câu chuyện của Hà Nội về đêm. Đủ trầm lắng, đủ sắc màu, đủ ấm, và đôi khi đủ lạnh lẽo, bao dung, rộng lượng... một thứ không tên nhưng đặc sệt Hà Nội, chỉ Hà Nội mà thôi.",
             "media": [
                 {
@@ -33,8 +33,8 @@
                         "avatar": ""
                     },
                     "content": "Hà Nội đẹp lắm",
-                    "createAt": "",
-                    "updateAt": "",
+                    "createAt": "2024-01-02",
+                    "updateAt": "2024-01-02",
                     "parentId": ""
                 }
             ]
