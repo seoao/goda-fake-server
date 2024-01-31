@@ -16,6 +16,43 @@
             },
             "createAt": "2024-01-02",
             "updateAt": "2024-01-02",
+            "content": "Địa điểm dễ tìm, rộng rãi. Gần hồ Tân Xã lộng gió. Đồ ăn ngon. Gà tươi, da giòn, sốt tỏi giòn lạ miệng cực kì. Rất đáng để trải nghiệm nhiều lần các bạn ưii",
+            "media": [
+                {
+                    "type": "image",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipP2cEftwFyjV_Coo0QRznEJPUuVgh3dvJ0pwpb0=w203-h152-k-no"
+                }
+            ],
+            "comments": [
+                {
+                    "commentId": "1",
+                    "author": {
+                        "username": "Giàng Seo Áo",
+                        "avatar": ""
+                    },
+                    "content": "Hà Nội đẹp lắm",
+                    "createAt": "2024-01-02",
+                    "updateAt": "2024-01-02",
+                    "parentId": ""
+                }
+            ]
+        },
+        {
+            "reviewId": "1",
+            "author": {
+                "username": "Giàng Seo Áo",
+                "email": "seoao@gmail.com",
+                "password": "123",
+                "address": "Lao Cai- Vietnam",
+                "birthday": "2002-12-02",
+                "gender": true,
+                "image": "https://storage.googleapis.com/pai-images/cabb7d2f8f224d089ce7dfdca9cbb32c.jpeg"
+            },
+            "place": {
+                "name": "Hà Nội"
+            },
+            "createAt": "2024-01-02",
+            "updateAt": "2024-01-02",
             "content": "Thứ làm lòng người lay động khi “lạc” vào đêm Hà Nội không phải là vẻ đẹp của bầu trời sao lung linh mà là những ngọn đèn vàng có thể “kể” câu chuyện của Hà Nội về đêm. Đủ trầm lắng, đủ sắc màu, đủ ấm, và đôi khi đủ lạnh lẽo, bao dung, rộng lượng... một thứ không tên nhưng đặc sệt Hà Nội, chỉ Hà Nội mà thôi.",
             "media": [
                 {
