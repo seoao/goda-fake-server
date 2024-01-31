@@ -4,7 +4,12 @@
             "reviewId": "1",
             "author": {
                 "username": "Giàng Seo Áo",
-                "avatar": ""
+                "email": "seoao@gmail.com",
+                "password": "123",
+                "address": "Lao Cai- Vietnam",
+                "birthday": "2002-12-02",
+                "gender": true,
+                "image": "https://storage.googleapis.com/pai-images/cabb7d2f8f224d089ce7dfdca9cbb32c.jpeg"
             },
             "place": {
                 "name": "Hà Nội"
